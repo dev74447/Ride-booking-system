@@ -1,2 +1,2 @@
 # Ride-booking-system
-OOPs Application Using C++
+A management application written in  C++ which uses the OOPs paradigm and concepts of File management.
